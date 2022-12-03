@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BaseModelModelStoreContainer" CdmEntityContainer="BaseModelEntities">
+    <EntitySetMapping Name="Tb_Usuario">
+      <EntityTypeMapping TypeName="BaseModelModel.Tb_Usuario">
+        <MappingFragment StoreEntitySet="Tb_Usuario">
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="UsuarioAprobacion" ColumnName="UsuarioAprobacion" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_ObtenerUsuarios" FunctionName="BaseModelModel.Store.SP_ObtenerUsuarios">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BaseModelModel.SP_ObtenerUsuarios_Result">
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="UsuarioAprobacion" ColumnName="UsuarioAprobacion" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="Tb_Operacion">
+      <EntityTypeMapping TypeName="BaseModelModel.Tb_Operacion">
+        <MappingFragment StoreEntitySet="Tb_Operacion">
+          <ScalarProperty Name="NombreAgente" ColumnName="NombreAgente" />
+          <ScalarProperty Name="Agente" ColumnName="Agente" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+          <ScalarProperty Name="Moneda" ColumnName="Moneda" />
+          <ScalarProperty Name="NroCuenta" ColumnName="NroCuenta" />
+          <ScalarProperty Name="NombreCliente" ColumnName="NombreCliente" />
+          <ScalarProperty Name="SecuenciaMovimiento" ColumnName="SecuenciaMovimiento" />
+          <ScalarProperty Name="TipoOperacion" ColumnName="TipoOperacion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="idOperacion" ColumnName="idOperacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_IngresarUsuario" FunctionName="BaseModelModel.Store.SP_IngresarUsuario" />
+    <FunctionImportMapping FunctionImportName="SP_ObtenerOperaciones" FunctionName="BaseModelModel.Store.SP_ObtenerOperaciones">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BaseModelModel.SP_ObtenerOperaciones_Result">
+          <ScalarProperty Name="idOperacion" ColumnName="idOperacion" />
+          <ScalarProperty Name="UsuarioAprobacion" ColumnName="UsuarioAprobacion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="TipoOperacion" ColumnName="TipoOperacion" />
+          <ScalarProperty Name="SecuenciaMovimiento" ColumnName="SecuenciaMovimiento" />
+          <ScalarProperty Name="NombreCliente" ColumnName="NombreCliente" />
+          <ScalarProperty Name="NroCuenta" ColumnName="NroCuenta" />
+          <ScalarProperty Name="Moneda" ColumnName="Moneda" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Agente" ColumnName="Agente" />
+          <ScalarProperty Name="NombreAgente" ColumnName="NombreAgente" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_ModificarUsuario" FunctionName="BaseModelModel.Store.SP_ModificarUsuario" />
+    <FunctionImportMapping FunctionImportName="SP_EliminarUsuario" FunctionName="BaseModelModel.Store.SP_EliminarUsuario" />
+  </EntityContainerMapping>
+</Mapping>

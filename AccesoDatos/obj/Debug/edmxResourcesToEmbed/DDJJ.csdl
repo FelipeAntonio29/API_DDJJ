@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD35Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BD35Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SS_DDJJ_1874" ReturnType="Collection(BD35Model.SS_DDJJ_1874_Result)">
+      <Parameter Name="Codigo_movto" Mode="In" Type="String" />
+      <Parameter Name="Moneda" Mode="In" Type="String" />
+      <Parameter Name="fechaInicio" Mode="In" Type="String" />
+      <Parameter Name="fechaFin" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SS_DDJJ_1922" ReturnType="Collection(BD35Model.SS_DDJJ_1922_Result)">
+      <Parameter Name="Codigo_movto" Mode="In" Type="String" />
+      <Parameter Name="fechaInicio" Mode="In" Type="String" />
+      <Parameter Name="fechaFin" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SS_DDJJ_1949" ReturnType="Collection(BD35Model.SS_DDJJ_1949_Result)">
+      <Parameter Name="Codigo_movto" Mode="In" Type="String" />
+      <Parameter Name="fechaInicio" Mode="In" Type="String" />
+      <Parameter Name="fechaFin" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SS_DDJJ_1932" ReturnType="Collection(BD35Model.SS_DDJJ_1932_Result)">
+      <Parameter Name="Codigo_movto" Mode="In" Type="String" />
+      <Parameter Name="Moneda" Mode="In" Type="String" />
+      <Parameter Name="fechaInicio" Mode="In" Type="String" />
+      <Parameter Name="fechaFin" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SS_DDJJ_ObtenerTipoEvento" ReturnType="Collection(BD35Model.SS_DDJJ_ObtenerTipoEvento_Result)" />
+    <FunctionImport Name="SS_DDJJ_ObtenerMoneda" ReturnType="Collection(BD35Model.SS_DDJJ_ObtenerMoneda_Result)" />
+    <FunctionImport Name="SS_DDJJ_ObtenerCodigoMovto" ReturnType="Collection(BD35Model.SS_DDJJ_ObtenerCodigoMovto_Result)" />
+    <FunctionImport Name="SS_DDJJ_ObtenerMovto" ReturnType="Collection(BD35Model.SS_DDJJ_ObtenerMovto_Result)">
+      <Parameter Name="ID_DDJJ" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SS_DDJJ_ObtenerDJ" ReturnType="Collection(BD35Model.SS_DDJJ_ObtenerDJ_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SS_DDJJ_1874_Result">
+    <Property Type="String" Name="FEC_OPE" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="SEC_MOVTO" Nullable="true" />
+    <Property Type="String" Name="RUT_CLI" Nullable="true" MaxLength="11" />
+    <Property Type="String" Name="RUT_EMI" Nullable="true" MaxLength="11" />
+    <Property Type="String" Name="CODIGO" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="DESCRIPCION" Nullable="false" MaxLength="13" />
+    <Property Type="String" Name="NEMO" Nullable="true" MaxLength="25" />
+    <Property Type="String" Name="MON_REAJUSTE" Nullable="false" MaxLength="4" />
+    <Property Type="Decimal" Name="INT_DEV_CLP" Nullable="true" Precision="15" Scale="0" />
+    <Property Type="Decimal" Name="RETENC_DEV_CLP" Nullable="true" Precision="15" Scale="0" />
+    <Property Type="String" Name="RUT_ADM" Nullable="true" MaxLength="11" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_1922_Result">
+    <Property Type="String" Name="FEC_MVTO" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="SEC_MOVTO" Nullable="true" />
+    <Property Type="Int32" Name="FOLIO_COMP_ADJ" Nullable="true" />
+    <Property Type="String" Name="RUT_CLI" Nullable="true" MaxLength="11" />
+    <Property Type="Int32" Name="SEC_RUT_CLI" Nullable="true" />
+    <Property Type="String" Name="CODIGO" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DESCRIPCION" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="NEMO" Nullable="true" MaxLength="10" />
+    <Property Type="Decimal" Name="CANTIDAD" Nullable="true" Precision="18" Scale="4" />
+    <Property Type="Decimal" Name="PRECIO" Nullable="true" Precision="18" Scale="4" />
+    <Property Type="Decimal" Name="MONTO" Nullable="true" Precision="18" Scale="4" />
+    <Property Type="Int32" Name="SEC_EVE" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_1949_Result">
+    <Property Type="String" Name="FECHA_PAG" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="SEC_MOVTO" Nullable="true" />
+    <Property Type="String" Name="RUT_CLI" Nullable="true" MaxLength="11" />
+    <Property Type="Int32" Name="SEC_RUT_CLI" Nullable="true" />
+    <Property Type="String" Name="COD_MOVTO" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DESCRIPCION" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="RUT_EMI" Nullable="true" MaxLength="11" />
+    <Property Type="String" Name="NEMO" Nullable="true" MaxLength="10" />
+    <Property Type="Decimal" Name="MTO_PAG" Nullable="true" Precision="18" Scale="4" />
+    <Property Type="Int32" Name="FOL_EVE" Nullable="true" />
+    <Property Type="Int32" Name="SEC_VC" Nullable="true" />
+    <Property Type="String" Name="TIP_SOC" Nullable="true" MaxLength="5" />
+    <Property Type="String" Name="RUT_ADM" Nullable="true" MaxLength="11" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_1932_Result">
+    <Property Type="Decimal" Name="FOLIO" Nullable="false" Precision="10" Scale="0" />
+    <Property Type="String" Name="FECHA" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="RUT" Nullable="false" MaxLength="11" />
+    <Property Type="Decimal" Name="CTA" Nullable="false" Precision="2" Scale="0" />
+    <Property Type="String" Name="CODIGO" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="TIPO_MOVTO" Nullable="true" MaxLength="13" />
+    <Property Type="String" Name="NEMO" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="RAZON_SOCIAL" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="MONEDA" Nullable="true" MaxLength="6" />
+    <Property Type="Decimal" Name="MONTO" Nullable="false" Precision="17" Scale="2" />
+    <Property Type="String" Name="CONCEPTO_MVTO" Nullable="false" MaxLength="2" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_ObtenerTipoEvento_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="TipoEvento" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_ObtenerMoneda_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Moneda" Nullable="true" MaxLength="4" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_ObtenerCodigoMovto_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="CodigoMovto" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_ObtenerMovto_Result">
+    <Property Type="Int32" Name="ID_DDJJ" Nullable="true" />
+    <Property Type="String" Name="DDJJ" Nullable="true" MaxLength="4" />
+    <Property Type="Int32" Name="ID_TipoEvento" Nullable="true" />
+    <Property Type="String" Name="TipoEvento" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="ID_CodigoMovto" Nullable="true" />
+    <Property Type="String" Name="CodigoMovto" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="ID_Moneda" Nullable="true" />
+    <Property Type="String" Name="Moneda" Nullable="true" MaxLength="4" />
+  </ComplexType>
+  <ComplexType Name="SS_DDJJ_ObtenerDJ_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="DDJJ" Nullable="true" MaxLength="4" />
+  </ComplexType>
+</Schema>

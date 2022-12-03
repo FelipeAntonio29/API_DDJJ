@@ -1,0 +1,204 @@
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\EntityFramework.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\log4net.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Owin.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\WebGrease.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Dapper.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\log4net.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\EntityFramework.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\bin\Dapper.xml
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\obj\Debug\API_TemplateLV.csprojResolveAssemblyReference.cache
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\pfernandezc\Documents\Visual Studio 2015\Projects\ApiBase2021\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApplicationInsights.config
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\csc.exe
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\vbc.exe
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.pdb
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\log4net.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Owin.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Razor.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\WebActivatorEx.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\WebGrease.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Dapper.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.pdb
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\log4net.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Razor.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\bin\Dapper.xml
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_TemplateLV.csproj.AssemblyReference.cache
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_TemplateLV.csproj.CoreCompileInputs.cache
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_TemplateLV.csproj.CopyComplete
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Proyectos\IN10102 - Suitability 2020\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\ApiBase2021.pdb

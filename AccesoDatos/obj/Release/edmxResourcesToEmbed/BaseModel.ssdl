@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseModelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tb_Operacion">
+    <Key>
+      <PropertyRef Name="idOperacion" />
+    </Key>
+    <Property Name="idOperacion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idUsuario" Type="int" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="TipoOperacion" Type="varchar" MaxLength="50" />
+    <Property Name="SecuenciaMovimiento" Type="nvarchar" MaxLength="15" />
+    <Property Name="NombreCliente" Type="varchar" MaxLength="250" />
+    <Property Name="NroCuenta" Type="varchar" MaxLength="50" />
+    <Property Name="Moneda" Type="varchar" MaxLength="50" />
+    <Property Name="Monto" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="250" />
+    <Property Name="Agente" Type="nvarchar" MaxLength="4" />
+    <Property Name="NombreAgente" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Tb_Usuario">
+    <Key>
+      <PropertyRef Name="idUsuario" />
+    </Key>
+    <Property Name="idUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreUsuario" Type="varchar" MaxLength="100" />
+    <Property Name="UsuarioAprobacion" Type="varchar" MaxLength="50" />
+    <Property Name="Correo" Type="varchar" MaxLength="150" />
+    <Property Name="Status" Type="smallint" />
+  </EntityType>
+  <Function Name="SP_EliminarUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="idUsuario" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SP_IngresarUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NombreUsuario" Type="varchar" Mode="In" />
+    <Parameter Name="UsuarioAprobacion" Type="varchar" Mode="In" />
+    <Parameter Name="Correo" Type="varchar" Mode="In" />
+    <Parameter Name="Status" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SP_ModificarUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="idUsuario" Type="int" Mode="In" />
+    <Parameter Name="NombreUsuario" Type="varchar" Mode="In" />
+    <Parameter Name="UsuarioAprobacion" Type="varchar" Mode="In" />
+    <Parameter Name="Correo" Type="varchar" Mode="In" />
+    <Parameter Name="Status" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SP_ObtenerOperaciones" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="SP_ObtenerUsuarios" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="BaseModelModelStoreContainer">
+    <EntitySet Name="Tb_Operacion" EntityType="Self.Tb_Operacion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tb_Usuario" EntityType="Self.Tb_Usuario" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,63 @@
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\AccesoNegocio.dll.config
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\AccesoNegocio.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\AccesoNegocio.pdb
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\AccesoDatos.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\EntityFramework.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\log4net.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Newtonsoft.Json.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Swashbuckle.Core.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Web.Http.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\WebActivatorEx.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Dapper.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\AccesoDatos.pdb
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\EntityFramework.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\log4net.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Newtonsoft.Json.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Web.Http.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\bin\Release\Dapper.xml
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\obj\Release\AccesoNegocio.csprojResolveAssemblyReference.cache
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\obj\Release\AccesoNegocio.dll
+C:\Users\pfernandezc\documents\visual studio 2015\Projects\ApiBase2021\AccesoNegocio\obj\Release\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\ClosedXML.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\ExcelNumberFormat.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.IO.Packaging.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\ClosedXML.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\ClosedXML.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\ExcelNumberFormat.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\obj\Release\AccesoNegocio.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\obj\Release\AccesoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\obj\Release\AccesoNegocio.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\obj\Release\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\AccesoNegocio\obj\Release\AccesoNegocio.pdb

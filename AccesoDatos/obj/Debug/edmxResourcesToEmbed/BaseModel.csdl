@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseModelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tb_Usuario">
+    <Key>
+      <PropertyRef Name="idUsuario" />
+    </Key>
+    <Property Name="idUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreUsuario" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioAprobacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int16" />
+  </EntityType>
+  <EntityContainer Name="BaseModelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tb_Usuario" EntityType="Self.Tb_Usuario" />
+    <FunctionImport Name="SP_ObtenerUsuarios" ReturnType="Collection(BaseModelModel.SP_ObtenerUsuarios_Result)" />
+    <EntitySet Name="Tb_Operacion" EntityType="BaseModelModel.Tb_Operacion" />
+    <FunctionImport Name="SP_IngresarUsuario">
+      <Parameter Name="NombreUsuario" Mode="In" Type="String" />
+      <Parameter Name="UsuarioAprobacion" Mode="In" Type="String" />
+      <Parameter Name="Correo" Mode="In" Type="String" />
+      <Parameter Name="Status" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_ObtenerOperaciones" ReturnType="Collection(BaseModelModel.SP_ObtenerOperaciones_Result)" />
+    <FunctionImport Name="SP_ModificarUsuario">
+      <Parameter Name="idUsuario" Mode="In" Type="Int32" />
+      <Parameter Name="NombreUsuario" Mode="In" Type="String" />
+      <Parameter Name="UsuarioAprobacion" Mode="In" Type="String" />
+      <Parameter Name="Correo" Mode="In" Type="String" />
+      <Parameter Name="Status" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_EliminarUsuario">
+      <Parameter Name="idUsuario" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_ObtenerUsuarios_Result">
+    <Property Type="Int32" Name="idUsuario" Nullable="false" />
+    <Property Type="String" Name="NombreUsuario" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="UsuarioAprobacion" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Correo" Nullable="true" MaxLength="150" />
+    <Property Type="Int16" Name="Status" Nullable="true" />
+  </ComplexType>
+  <EntityType Name="Tb_Operacion">
+    <Key>
+      <PropertyRef Name="idOperacion" />
+    </Key>
+    <Property Name="idOperacion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idUsuario" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="TipoOperacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SecuenciaMovimiento" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="NombreCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="NroCuenta" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Moneda" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Monto" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Descripcion" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Agente" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="NombreAgente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <ComplexType Name="SP_ObtenerOperaciones_Result">
+    <Property Type="Int32" Name="idOperacion" Nullable="false" />
+    <Property Type="String" Name="UsuarioAprobacion" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="Fecha" Nullable="true" Precision="23" />
+    <Property Type="String" Name="TipoOperacion" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SecuenciaMovimiento" Nullable="true" MaxLength="15" />
+    <Property Type="String" Name="NombreCliente" Nullable="true" MaxLength="250" />
+    <Property Type="String" Name="NroCuenta" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Moneda" Nullable="true" MaxLength="50" />
+    <Property Type="Decimal" Name="Monto" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="String" Name="Descripcion" Nullable="true" MaxLength="250" />
+    <Property Type="String" Name="Agente" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="NombreAgente" Nullable="true" MaxLength="250" />
+  </ComplexType>
+</Schema>

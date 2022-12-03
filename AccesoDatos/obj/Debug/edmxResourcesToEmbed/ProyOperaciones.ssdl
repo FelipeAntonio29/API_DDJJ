@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyOperacionesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="SS_DDJJ_1874" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Codigo_movto" Type="xml" Mode="In" />
+    <Parameter Name="Moneda" Type="xml" Mode="In" />
+    <Parameter Name="tipoEvento" Type="xml" Mode="In" />
+    <Parameter Name="fechaInicio" Type="varchar" Mode="In" />
+    <Parameter Name="fechaFin" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_1922" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Codigo_movto" Type="xml" Mode="In" />
+    <Parameter Name="tipoEvento" Type="xml" Mode="In" />
+    <Parameter Name="fechaInicio" Type="varchar" Mode="In" />
+    <Parameter Name="fechaFin" Type="varchar" Mode="In" />
+    <Parameter Name="Moneda" Type="xml" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_1932" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Codigo_movto" Type="xml" Mode="In" />
+    <Parameter Name="Moneda" Type="xml" Mode="In" />
+    <Parameter Name="tipoEvento" Type="xml" Mode="In" />
+    <Parameter Name="fechaInicio" Type="varchar" Mode="In" />
+    <Parameter Name="fechaFin" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_1932_PRUEBA2" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Codigo_movto" Type="xml" Mode="In" />
+    <Parameter Name="Moneda" Type="xml" Mode="In" />
+    <Parameter Name="tipoEvento" Type="xml" Mode="In" />
+    <Parameter Name="fechaInicio" Type="varchar" Mode="In" />
+    <Parameter Name="fechaFin" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_1949" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Codigo_movto" Type="xml" Mode="In" />
+    <Parameter Name="tipoEvento" Type="xml" Mode="In" />
+    <Parameter Name="fechaInicio" Type="varchar" Mode="In" />
+    <Parameter Name="fechaFin" Type="varchar" Mode="In" />
+    <Parameter Name="Moneda" Type="xml" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_ListaTipoEvento" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ID_TipoEvento" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_ObtenerCodigoMovto" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="SS_DDJJ_ObtenerDJ" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="SS_DDJJ_ObtenerMoneda" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="SS_DDJJ_ObtenerMovto" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ID_DDJJ" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SS_DDJJ_ObtenerTipoEvento" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="ProyOperacionesModelStoreContainer" />
+</Schema>

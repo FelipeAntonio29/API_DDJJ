@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD35ModelStoreContainer" CdmEntityContainer="BD35Entities">
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_1874" FunctionName="BD35Model.Store.SS_DDJJ_1874">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_1874_Result">
+          <ScalarProperty Name="FEC_OPE" ColumnName="FEC_OPE" />
+          <ScalarProperty Name="SEC_MOVTO" ColumnName="SEC_MOVTO" />
+          <ScalarProperty Name="RUT_CLI" ColumnName="RUT_CLI" />
+          <ScalarProperty Name="RUT_EMI" ColumnName="RUT_EMI" />
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="NEMO" ColumnName="NEMO" />
+          <ScalarProperty Name="MON_REAJUSTE" ColumnName="MON_REAJUSTE" />
+          <ScalarProperty Name="INT_DEV_CLP" ColumnName="INT_DEV_CLP" />
+          <ScalarProperty Name="RETENC_DEV_CLP" ColumnName="RETENC_DEV_CLP" />
+          <ScalarProperty Name="RUT_ADM" ColumnName="RUT_ADM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_1922" FunctionName="BD35Model.Store.SS_DDJJ_1922">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_1922_Result">
+          <ScalarProperty Name="FEC_MVTO" ColumnName="FEC_MVTO" />
+          <ScalarProperty Name="SEC_MOVTO" ColumnName="SEC_MOVTO" />
+          <ScalarProperty Name="FOLIO_COMP_ADJ" ColumnName="FOLIO_COMP_ADJ" />
+          <ScalarProperty Name="RUT_CLI" ColumnName="RUT_CLI" />
+          <ScalarProperty Name="SEC_RUT_CLI" ColumnName="SEC_RUT_CLI" />
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="NEMO" ColumnName="NEMO" />
+          <ScalarProperty Name="CANTIDAD" ColumnName="CANTIDAD" />
+          <ScalarProperty Name="PRECIO" ColumnName="PRECIO" />
+          <ScalarProperty Name="MONTO" ColumnName="MONTO" />
+          <ScalarProperty Name="SEC_EVE" ColumnName="SEC_EVE" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_1949" FunctionName="BD35Model.Store.SS_DDJJ_1949">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_1949_Result">
+          <ScalarProperty Name="FECHA_PAG" ColumnName="FECHA_PAG" />
+          <ScalarProperty Name="SEC_MOVTO" ColumnName="SEC_MOVTO" />
+          <ScalarProperty Name="RUT_CLI" ColumnName="RUT_CLI" />
+          <ScalarProperty Name="SEC_RUT_CLI" ColumnName="SEC_RUT_CLI" />
+          <ScalarProperty Name="COD_MOVTO" ColumnName="COD_MOVTO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="RUT_EMI" ColumnName="RUT_EMI" />
+          <ScalarProperty Name="NEMO" ColumnName="NEMO" />
+          <ScalarProperty Name="MTO_PAG" ColumnName="MTO_PAG" />
+          <ScalarProperty Name="FOL_EVE" ColumnName="FOL_EVE" />
+          <ScalarProperty Name="SEC_VC" ColumnName="SEC_VC" />
+          <ScalarProperty Name="TIP_SOC" ColumnName="TIP_SOC" />
+          <ScalarProperty Name="RUT_ADM" ColumnName="RUT_ADM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_1932" FunctionName="BD35Model.Store.SS_DDJJ_1932">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_1932_Result">
+          <ScalarProperty Name="FOLIO" ColumnName="FOLIO" />
+          <ScalarProperty Name="FECHA" ColumnName="FECHA" />
+          <ScalarProperty Name="RUT" ColumnName="RUT" />
+          <ScalarProperty Name="CTA" ColumnName="CTA" />
+          <ScalarProperty Name="CODIGO" ColumnName="CODIGO" />
+          <ScalarProperty Name="TIPO_MOVTO" ColumnName="TIPO_MOVTO" />
+          <ScalarProperty Name="NEMO" ColumnName="NEMO" />
+          <ScalarProperty Name="RAZON_SOCIAL" ColumnName="RAZON_SOCIAL" />
+          <ScalarProperty Name="MONEDA" ColumnName="MONEDA" />
+          <ScalarProperty Name="MONTO" ColumnName="MONTO" />
+          <ScalarProperty Name="CONCEPTO_MVTO" ColumnName="CONCEPTO_MVTO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_ObtenerTipoEvento" FunctionName="BD35Model.Store.SS_DDJJ_ObtenerTipoEvento">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_ObtenerTipoEvento_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TipoEvento" ColumnName="TipoEvento" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_ObtenerMoneda" FunctionName="BD35Model.Store.SS_DDJJ_ObtenerMoneda">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_ObtenerMoneda_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Moneda" ColumnName="Moneda" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_ObtenerCodigoMovto" FunctionName="BD35Model.Store.SS_DDJJ_ObtenerCodigoMovto">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_ObtenerCodigoMovto_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CodigoMovto" ColumnName="CodigoMovto" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_ObtenerMovto" FunctionName="BD35Model.Store.SS_DDJJ_ObtenerMovto">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_ObtenerMovto_Result">
+          <ScalarProperty Name="ID_DDJJ" ColumnName="ID_DDJJ" />
+          <ScalarProperty Name="DDJJ" ColumnName="DDJJ" />
+          <ScalarProperty Name="ID_TipoEvento" ColumnName="ID_TipoEvento" />
+          <ScalarProperty Name="TipoEvento" ColumnName="TipoEvento" />
+          <ScalarProperty Name="ID_CodigoMovto" ColumnName="ID_CodigoMovto" />
+          <ScalarProperty Name="CodigoMovto" ColumnName="CodigoMovto" />
+          <ScalarProperty Name="ID_Moneda" ColumnName="ID_Moneda" />
+          <ScalarProperty Name="Moneda" ColumnName="Moneda" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SS_DDJJ_ObtenerDJ" FunctionName="BD35Model.Store.SS_DDJJ_ObtenerDJ">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BD35Model.SS_DDJJ_ObtenerDJ_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DDJJ" ColumnName="DDJJ" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

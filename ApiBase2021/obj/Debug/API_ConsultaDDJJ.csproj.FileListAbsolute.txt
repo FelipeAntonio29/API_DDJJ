@@ -1,0 +1,1164 @@
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApplicationInsights.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\csc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\vbc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\ApiBase2021.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\log4net.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\WebActivatorEx.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\WebGrease.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\log4net.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_nuevo\API_TemplateLV\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\1\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Proyectos\LarrainVial\IN10269_HLS_Consulta DJ Online v2\API_DDJJ_GIT\4\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\2\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\GitProject\APIsRest\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\3\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\LarrainVial\Proyectos\DDJJ\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\api\4\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\prueba DJ\API\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ApplicationInsights.config
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\csc.exe
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\vbc.exe
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll.config
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ApiBase2021.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ApiBase2021.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\EntityFramework.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\log4net.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Owin.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Swashbuckle.Core.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Razor.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\WebActivatorEx.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\WebGrease.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ClosedXML.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoDatos.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoDatos.dll.config
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoNegocio.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\AccesoNegocio.dll.config
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\log4net.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.Web.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.ApplicationInsights.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Newtonsoft.Json.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Net.Http.Formatting.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Helpers.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.WebHost.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Mvc.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Optimization.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Razor.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Deployment.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.WebPages.Razor.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Antlr3.Runtime.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\EntityFramework.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\EntityFramework.SqlServer.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\System.Web.Http.Owin.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ClosedXML.pdb
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ClosedXML.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\DocumentFormat.OpenXml.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\bin\ExcelNumberFormat.xml
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.AssemblyReference.cache
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CoreCompileInputs.cache
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\obj\Debug\API_ConsultaDDJJ.csproj.CopyComplete
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.dll
+C:\Users\finostroza\Desktop\FELIPE DRIVE\API_DDJJ\ApiBase2021\obj\Debug\ApiBase2021.pdb
